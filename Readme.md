@@ -1,3 +1,3 @@
-#CGForum Server
+# CGForum Server
 
 构思中...
